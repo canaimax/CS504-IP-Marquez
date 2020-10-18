@@ -1,8 +1,7 @@
 # CS504-Team-A-Project
 
-This is a repo.  The Project Team Members are
+This is the IP of Gus Marquez
 
-Wargin 	Gabby Ines, 
-Oh 	Mary Christine, 
+
 Gus Marquez  (Captain)
 
